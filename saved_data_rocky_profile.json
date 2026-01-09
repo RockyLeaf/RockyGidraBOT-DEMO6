@@ -1,0 +1,57 @@
+{
+  "id": "G895FF",
+  "name": "𝙍𝙤𝙘𝙠𝙮 ᶻz",
+  "telegramId": "6996846125",
+  "favoriteCharacter": {
+    "id": "tails",
+    "name": "Тейлз",
+    "avatar": "https://i.pinimg.com/736x/0e/31/67/0e3167be3e8545c92431b21643b85459.jpg"
+  },
+  "avatarData": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%230c0c2e'/%3E%3Ctext x='50' y='50' font-family='Arial' font-size='40' fill='%23ff6b6b' text-anchor='middle' dy='.3em'%3ER%3C/text%3E%3C/svg%3E",
+  "stats": {
+    "totalMessages": 150,
+    "charactersTalked": 8,
+    "chatTime": 25
+  },
+  "achievements": [
+    {
+      "id": "developer",
+      "name": "⚙️ Разработчик",
+      "description": "Создатель этого прекрасного проекта",
+      "icon": "fas fa-code"
+    },
+    {
+      "id": "first_profile",
+      "name": "🌟 Первый профиль",
+      "description": "Создал первый профиль в системе",
+      "icon": "fas fa-user-plus"
+    },
+    {
+      "id": "first_chat",
+      "name": "💬 Первый диалог",
+      "description": "Провел первый диалог с ИИ-персонажем",
+      "icon": "fas fa-comment"
+    },
+    {
+      "id": "master_chat",
+      "name": "🏆 Мастер общения",
+      "description": "Отправил более 100 сообщений",
+      "icon": "fas fa-trophy"
+    },
+    {
+      "id": "collector",
+      "name": "👥 Коллекционер",
+      "description": "Пообщался с 5+ разными персонажами",
+      "icon": "fas fa-users"
+    },
+    {
+      "id": "api_master",
+      "name": "🔑 API Мастер",
+      "description": "Успешно настроил API ключи",
+      "icon": "fas fa-key"
+    }
+  ],
+  "isMaster": true,
+  "createdAt": "2024-01-01T00:00:00.000Z",
+  "updatedAt": "2024-01-01T00:00:00.000Z"
+}
